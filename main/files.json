@@ -1,0 +1,105 @@
+{
+ "LC08": [
+  "B1.TIF",
+  "B2.TIF",
+  "B3.TIF",
+  "B4.TIF",
+  "B5.TIF",
+  "B6.TIF",
+  "B7.TIF",
+  "B8.TIF",
+  "B9.TIF",
+  "B10.TIF",
+  "B11.TIF",
+  "BQA.TIF",
+  "MTL.txt",
+  "ANG.txt"
+ ],
+ "LE07": [
+  "B1.TIF",
+  "B2.TIF",
+  "B3.TIF",
+  "B4.TIF",
+  "B5.TIF",
+  "B6_VCID_1.TIF",
+  "B6_VCID_2.TIF",
+  "B7.TIF",
+  "B8.TIF",
+  "BQA.TIF",
+  "GCP.txt",
+  "MTL.txt",
+  "ANG.txt"
+ ],
+ "LT05": [
+  "B1.TIF",
+  "B2.TIF",
+  "B3.TIF",
+  "B4.TIF",
+  "B5.TIF",
+  "B6.TIF",
+  "B7.TIF",
+  "BQA.TIF",
+  "GCP.txt",
+  "MTL.txt",
+  "VER.txt",
+  "ANG.txt"
+ ],
+ "LT04": [
+  "B1.TIF",
+  "B2.TIF",
+  "B3.TIF",
+  "B4.TIF",
+  "B5.TIF",
+  "B6.TIF",
+  "B7.TIF",
+  "BQA.TIF",
+  "GCP.txt",
+  "MTL.txt",
+  "VER.txt",
+  "ANG.txt"
+ ],
+ "LM05": [
+  "B1.TIF",
+  "B2.TIF",
+  "B3.TIF",
+  "B4.TIF",
+  "BQA.TIF",
+  "GCP.txt",
+  "MTL.txt",
+  "VER.txt"
+ ],
+ "LM04": [
+  "B1.TIF",
+  "B2.TIF",
+  "B3.TIF",
+  "B4.TIF",
+  "BQA.TIF",
+  "GCP.txt",
+  "MTL.txt",
+  "VER.txt"
+ ],
+ "LM03": [
+  "B4.TIF",
+  "B5.TIF",
+  "B6.TIF",
+  "B7.TIF",
+  "BQA.TIF",
+  "MTL.txt"
+ ],
+ "LM02": [
+  "B4.TIF",
+  "B5.TIF",
+  "B6.TIF",
+  "B7.TIF",
+  "BQA.TIF",
+  "MTL.txt"
+ ],
+ "LM01": [
+  "B4.TIF",
+  "B5.TIF",
+  "B6.TIF",
+  "B7.TIF",
+  "BQA.TIF",
+  "MTL.txt"
+ ]
+}
