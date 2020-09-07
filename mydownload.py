@@ -13,8 +13,8 @@ catalog = Catalog()
 
 begin = datetime(2020, 7, 20)
 end = datetime(2020, 9, 4)
-path=[121,123,118,119,125,120,120,122]
-row=[44,45,41,42,45,32,36,45]
+path=[121,122]
+row=[47,48]
 # geom = Point(4.34, 50.85)
 
 # Results are returned as a list
